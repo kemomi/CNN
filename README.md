@@ -1,6 +1,7 @@
 # CNN
 Convolutional Neural Networks（卷积神经网络）
-##卷积神经网络（Convolutional Neural Networks, CNN）
+
+# 卷积神经网络（Convolutional Neural Networks, CNN）
 是一类包含卷积计算且具有深度结构的前馈神经网络（Feedforward Neural Networks），是深度学习（deep learning）的代表算法之一。
 卷积神经网络具有表征学习（representation learning）能力，能够按其阶层结构对输入信息进行平移不变分类（shift-invariant classification），因此也被称为“平移不变人工神经网络（Shift-Invariant Artificial Neural Networks, SIANN）”  。
 
